@@ -1,4 +1,4 @@
-# NinjaMail
+# MailNinja
 
 A minimal marketing, automation & email service. (WIP)
 
