@@ -10,14 +10,14 @@ async def get_one():
 async def get_many():
   return []
 
-@router.post('/tags')
+@router.post('/tags', tags=['tags'])
 async def create():
   return {}
 
-@router.delete('/tags/{tag_id}')
+@router.delete('/tags/{tag_id}', tags=['tags'])
 async def delete_one():
   return {}
 
-@router.delete('/tags')
+@router.delete('/tags', tags=['tags'])
 async def delete_many():
   return []
