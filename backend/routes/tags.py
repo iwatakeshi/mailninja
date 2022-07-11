@@ -1,7 +1,7 @@
 from fastapi import APIRouter
 
 router = APIRouter()
-tags = ['tags']
+tags = ['Tags']
 
 @router.get('/tags/{tag_id}', tags=tags)
 async def get_one():
