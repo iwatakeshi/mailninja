@@ -15,6 +15,10 @@ async def get_many():
 async def create():
   return {}
 
+@router.post('/contacts/{contact_id}', tags=tags)
+async def update():
+  return {}
+
 @router.delete('/contacts/{contact_id}', tags=tags)
 async def delete_one():
   return {}
