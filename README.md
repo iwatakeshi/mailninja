@@ -22,7 +22,7 @@ The backend will be a Nest.js app. The glue between the frontend and the back is
 
 To use the API, you will need to provide an API key generated during the signup process or added manually to the database.
 
-## Reading Material
+## Reading Materials
 
 ### Amazon SES
 
@@ -37,3 +37,7 @@ To use the API, you will need to provide an API key generated during the signup 
 ### Deployment
 
 [Gitalytics - A simple overview of Github activities](https://dev.to/shhdharmen/gitalytics-a-simple-overview-of-github-activities-ohd)
+
+## Watching Materials
+
+[Introduction to TCP/IP and Sockets, part 1: Introducing the protocols and API](https://www.youtube.com/watch?v=C7CpfL1p6y0)
