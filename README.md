@@ -30,6 +30,10 @@ To use the API, you will need to provide an API key generated during the signup 
 
 [Warming up dedicated IP addresses](https://docs.aws.amazon.com/ses/latest/dg/dedicated-ip-warming.html)
 
+### Dedicated IP
+
+[Dedicated IP Address vs Shared IP Address (Debunking Myths)](https://kinsta.com/blog/dedicated-ip-address/#dedicated-ip-vs-shared-email)
+
 ### Deployment
 
 [Gitalytics - A simple overview of Github activities](https://dev.to/shhdharmen/gitalytics-a-simple-overview-of-github-activities-ohd)
